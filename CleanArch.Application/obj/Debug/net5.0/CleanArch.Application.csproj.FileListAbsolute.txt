@@ -1,0 +1,30 @@
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\refint\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\indra\Desktop\workspace2022\Nova pasta\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.deps.json
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.dll
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\bin\Debug\net5.0\CleanArch.Domain.pdb
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.AssemblyInfo.cs
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.csproj.CopyComplete
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\refint\CleanArch.Application.dll
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\CleanArch.Application.pdb
+C:\Users\indra\Desktop\workspace2022\CleanArch\CleanArch.Application\obj\Debug\net5.0\ref\CleanArch.Application.dll
